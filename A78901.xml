@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Majesties message to both Houses of Parliament, from the Isle of Wight, Novemb. 17. 1647. Desiring a personall treaty at London with the two Houses of Parliament. Declaring his resolution concerning religion, church-government, the militia, the arreares of the Army, the Court of Wards and Liveries, and other things, in order to the settlement of the peace of the kingdom. Read in the House of Commons, Friday Novemb. 19. 1647.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78901</idno><idno type="EEBO-CITATION">99863971</idno>
+  <idno type="VID">116189</idno>
+  <idno type="EEBO-PROQUEST">2240938923</idno>
+  
+            <idno type="STC">Wing C2465</idno>
+            <idno type="STC">Thomason E416_11</idno>
+            <idno type="STC">ESTC R204481</idno>
+            <idno type="PROQUEST">99863971</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99863971e"/>
+            <note>(EEBO-TCP ; phase 2, no. A78901)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116189)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 66:E416[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Majesties message to both Houses of Parliament, from the Isle of Wight, Novemb. 17. 1647. Desiring a personall treaty at London with the two Houses of Parliament. Declaring his resolution concerning religion, church-government, the militia, the arreares of the Army, the Court of Wards and Liveries, and other things, in order to the settlement of the peace of the kingdom. Read in the House of Commons, Friday Novemb. 19. 1647.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Robert Austin,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Treaties.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116189:1"/>
+            <p>His Majesties Message TO Both Houses of PARLIAMENT, from the <hi>Jsle of Wight,</hi> Novemb. 17. 1647.</p>
+            <p>Desiring a Personall Treaty at London with the two Houses of Parliament.</p>
+            <p>Declaring his Resolution concerning Religion, Church-Government, the <hi>Militia,</hi> the Arreares of the Army, the Court of Wards and Liveries, and other things, in order to the settle<g ref="char:EOLhyphen"/>ment of the Peace of the Kingdom.</p>
+            <p>
+               <hi>Read in the House of Commons,</hi> Friday Novemb. 19. 1647.</p>
+            <figure>
+               <figDesc>arms of Charles I</figDesc>
+               <head>C R</head>
+               <q>
+                  <gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>NI SOIT QVI MAL Y PENSE</q>
+               <q>DIEV ET MON DROIT</q>
+            </figure>
+            <p>
+               <hi>London:</hi> Printed by <hi>Robert Austin.</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:116189:2"/>
+            <pb n="1" facs="tcp:116189:2"/>
+            <opener>
+               <signed>C. R.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">H</seg>Is Majesty is confident that before this time, His two Houses of Parliament have received the Message which he left behind him at <hi>Hampton-Court</hi> the eleventh of this Month, by which they will have understood the rea<g ref="char:EOLhyphen"/>sons which enforced him to goe from thence, as likewise his constant endeavours, for the setling of a safe and well groun<g ref="char:EOLhyphen"/>ded Peace wheresoever he should be; And being now in a place, where he conceives himselfe to be at much more free<g ref="char:EOLhyphen"/>dom and security then formerly; He thinks it necessary (not only for making good of his owne professions, but also for the speedy procuring of a Peace in these languishing and distressed Kingdomes) at this time to offer such grounds to His two Houses for that effect; which upon due examination of all Interests, may best conduce thereunto.</p>
+            <p>And because Religion is the best and cheifest foun<g ref="char:EOLhyphen"/>dation of Peace, His Majesty will begin with that Parti<g ref="char:EOLhyphen"/>cular.</p>
+            <p>That for the abolishing Arch-bishops, Bishops, &amp;c. His Majesty cleerly professeth, that He cannot give His consent thereunto, both in relation as He is a Christian, and a King: For the first, He avowes that He is satisfied in His Judgment, that this order was placed in the Church by the Apostles themselves; and ever since their time, hath con<g ref="char:EOLhyphen"/>tinued in all Christian Churches throughout the world, un<g ref="char:EOLhyphen"/>till this last century of years; And in this Church in all times of Change and Reformation, it hath been upheld by the wisdome of his Ancestours, as the great preserver of
+<pb n="2" facs="tcp:116189:3"/> Doctrine, Discipline, and Order in the service of God. As a King at his Coronation, he hath not only taken a Solemne Oath, to maintain this Order, but His Majesty and His Pre<g ref="char:EOLhyphen"/>decessours in their confirmations of the Great Charter, have inseperably woven the right of the Church into the Li<g ref="char:EOLhyphen"/>berties of the rest of their Subjects: And yet he is willing, it be provided that the particular Bishops performe the seve<g ref="char:EOLhyphen"/>rall Duties of their callings, both by their personall residence and frequent Preachings in their Diocesses, as also that they exercise no act of Jurisdiction or Ordination, without the consent of their Presbyters; And will consent, that their Powers in all things be so limited, that they be not grievous to tender Consciences: Wherefore, since His Majesty is willing to give ease to the Consciences of others, He sees no reason why He alone, and those of His Judgment, should be P<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ssed to a violation of theirs. Nor can His Majesty con<g ref="char:EOLhyphen"/>sent to the Alienation of Church Lands, because it cannot be denied to be a sinne of the highest Sacriledge; as also, that it subverts the intentions of so many pious Donors, who have laid a heavy curse upon all such profane violations, which His Majesty is very unwilling to undergoe; And be<g ref="char:EOLhyphen"/>sides the matter of Conscience, His Majesty beleeves it to be a prejudice to the Publick good, many of His Subjects ha<g ref="char:EOLhyphen"/>ving the benefit of renuing Leases at much easier Rates, then if those possessions were in the hands of private men; not omitting the discouragement which it will be to all learning and industry, when such eminent rewards shall be taken away, which now lie open to the Children of meanest Persons. Yet His Majesty considering the great present distempers concerning Church Discipline, and that the Presbyterian Government is now in practice, his Majesty to eschew confusion as much as may be, and for the satisfacti<g ref="char:EOLhyphen"/>on of his two Houses, is content that the said Govern<g ref="char:EOLhyphen"/>ment
+<pb n="3" facs="tcp:116189:3"/> bee legally permitted to stand, in the same condition it now is for three years; Provided, that his Majestie and those of his judgement (or any other who cannot in consci<g ref="char:EOLhyphen"/>ence submit thereunto) be not obliged to comply with Pres<g ref="char:EOLhyphen"/>byteriall Government, but have free practice of their owne Profession, without receiving any prejudice thereby; and that a free consultation and debate be had with the Divines at Westminster (twenty of His Majesties nomination being added unto them) whereby it may be determined by His Majesty and the two Houses, how the Church-government after the said time shall be setled, (or sooner if differences may be agreed) as is most agreeable to the Word of God; with full liberty to all those who shall differ upon conscien<g ref="char:EOLhyphen"/>tious grounds from that settlement; alwaies provided, that nothing aforesaid be understood to tolerate those of the Popish Profession, nor the exempting of any Popish Recu<g ref="char:EOLhyphen"/>sant from the penalties of the Lawes, or to tolerate the pub<g ref="char:EOLhyphen"/>like profession of Atheisme or Blasphemie, contrary to the doctrine of the Apostles, Nicene and Athanasian Creeds, they having been received by, and had in reverence of all the Christian Churches; and more particularly by this of England, ever since the Reformation.</p>
+            <p>Next, the <hi>Militia</hi> being that right, which is inseparably and undoubtedly inherent in the Crowne, by the Lawes of this Nation, and that which former Parliaments, as like<g ref="char:EOLhyphen"/>wise this, hath acknowledged so to be; His Majesty cannot so much wrong that trust which the Lawes of God and this Land hath annexed to the Crowne for the protection and security of his People, as to divest himselfe and Successors of the power of the Sword: yet to give an infallible evi<g ref="char:EOLhyphen"/>dence of his desire to secure the performance of such agree<g ref="char:EOLhyphen"/>ments as shall be made in order to a peace, His Majesty will consent to an Act of Parliament, that the whole power of
+<pb n="4" facs="tcp:116189:4"/> the <hi>Militia</hi> both by Sea and Land, for and during his whole Reigne, shall be ordered and disposed by his two Houses of Parliament, or by such persons as they shall appoint, with powers limited for suppressing of Forces within this King<g ref="char:EOLhyphen"/>dome, to the disturbance of the publike Peace, and against forraigne Invasion; and that they shall have power during his said Reigne, to raise moneyes for the purposes afore<g ref="char:EOLhyphen"/>said; and that neither His Majesty that now is, or any other (by any authority derived onely from him) shall execute a<g ref="char:EOLhyphen"/>ny of the said Powers during His Majesties said Reigne, but such as shall act by the consent and approbation of the two Houses of Parliament: Neverthelesse His Majesty in<g ref="char:EOLhyphen"/>tends that all Patents, Commissions, and other Acts con<g ref="char:EOLhyphen"/>cerning the <hi>Militia,</hi> be made and acted as formerly; and that after His Majesties Reigne, all the power of the <hi>Militia</hi> shall return entirely to the Crowne, as it was in the times of Queen <hi>Elizabeth,</hi> and King <hi>Iames</hi> of blessed memory.</p>
+            <p>After this head of the <hi>Militia,</hi> the consideration of the Arreares due to the Army is not improper to follow; for the paiment whereof, and the case of his People, His Ma<g ref="char:EOLhyphen"/>jesty is willing to concurre in any thing that can be done without the violation of his Conscience and Honour. Wherefore if his two Houses shall consent to remit unto him such benefit out of Sequestrations from Michaelmas last, and out of Compositions that shall be made before the co<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cluding of the peace, and the Arreares of such as have been already made, the assistance of the Clergie, and the Ar<g ref="char:EOLhyphen"/>rears of such Rents of his own Revenue as his two Houses shall not have received before the concluding of the Peace, His Majestie will undertake within the space of eighteene Moneths, the paiment of foure hundred thousand pounds for the satisfaction of the Army: And if those meanes shall not be sufficient, His Majesty intends to give way
+<pb n="5" facs="tcp:116189:4"/> to the sale of Forrest Lands for that purpose, this being the Publique debt which in His Majesties judgement is first to be satisfied; and for other publique debts already con<g ref="char:EOLhyphen"/>tracted upon Church Lands or any other Ingagements, His Majesty will give his confent to such Act or Acts for raising of moneyes for payment thereof as both Houses shall hereafter agree upon, so as they be equally laid, whereby his people (already too heavily burthened by these late distempers) may have no more pressures upon them then this absolute necessity requires: And for the further securing of all feares, His Majesty will consent, that an Act of Parliament be passed for the disposing of the great Offices of State, and nameing of Privie Counsellors for the whole Terme of his raigne by the two Houses of Parliament, their Patents and Commissions being taken from His Majesty, and after to returne to the Crowne, as is exprest in the Article of the <hi>Militia.</hi> For the Court of Wards and Liveries, His Majesty very well knowes the consequence of taking that away, by turning of all Te<g ref="char:EOLhyphen"/>nures into common Soccage, aswell in point of Revenue to the Crowne, as in the Protection of many of his Sub<g ref="char:EOLhyphen"/>jects being Infants. Neverthelesse if the continuance there<g ref="char:EOLhyphen"/>of seeme grievous to His Subjects, rather then he will faile on his part in giving satisfaction, he will consent to an Act for taking of it away, so as a full recompence be setled upon His Majesty and his Successors in perpetuity, and that the Arreares now due be reserved unto him to<g ref="char:EOLhyphen"/>wards the payment of the Arreares of the Army.</p>
+            <p>And that the memory of these late distractions may be wholly wiped away, His Majestie will consent to an Act of Parliament for the suppressing and making null of all Oaths, Declarations and Proclamations against both or ei<g ref="char:EOLhyphen"/>ther House of Parliament, and of all Indictments and o<g ref="char:EOLhyphen"/>ther proceedings against any persons for adhering unto
+<pb n="6" facs="tcp:116189:5"/> them; and His Majesty proposeth, (as the best expedient to take away all seeds of future differences) that there be an Act of Oblivion to extend to all his Subjects.</p>
+            <p>As for Ireland, the Cessation there is long since deter<g ref="char:EOLhyphen"/>mined, but for the future (all other things being fully a<g ref="char:EOLhyphen"/>greed) His Majestie will give full satisfaction to his Hou<g ref="char:EOLhyphen"/>ses concerning that Kingdome.</p>
+            <p>
+               <hi>And although His Majesty cannot consent in Honor &amp; Justice to avoid all His owne Grants and Acts past under His Great Seale since the two and twentieth of May 1642. or to the confirming of all the Acts and Grants passed under that made by the two Houses, yet His Majesty is confident, that upon perusall of particulars, He shall give full satisfaction to His two Houses, to what may be rea<g ref="char:EOLhyphen"/>sonably desired in that particular.</hi>
+            </p>
+            <p>
+               <hi>And now His Majesty conceives that by these His offers (which He is ready to make good upon the settlement of a Peace) He hath clearly manifested his intentions to give full security &amp; satisfaction to all Interests, for what can justly be desired in order to the future happines of His People. And for the perfecting of these concessions, as also for such other things as may be proposed by the two Houses, &amp; for such just &amp; reasonable demands as His Majesty shal find necessa<g ref="char:EOLhyphen"/>ry to propose on His part, He earnestly desires a personall Treatie at London with his two Houses, in Honour, Freedome and Safety, it being in his judgement the most proper and indeed only meanes to a firme and setled Peace, and impossible without it to reconcile former, or avoid future misunderstandings.</hi>
+            </p>
+            <p>
+               <hi>All these things being by Treaty perfected, His Majestie beleeves His two Houses will thinke it reasonable, that the Proposalls of the Army concerning the Succession of Parliaments and their due Elections, should be taken into consideration.</hi>
+            </p>
+            <p>
+               <hi>As for what concernes the Kingdome of Scotland, His Majestie will very readily apply himselfe to give all reasonable satisfaction, when the desires of the two Houses of Parliament on their behalfe, or of the Commissioners of that Kingdome, or of both joyned to<g ref="char:EOLhyphen"/>gether, shall be made knowne unto him.</hi>
+            </p>
+            <argument>
+               <p>
+                  <hi>For the Speaker of the Lords House</hi> pro Tempore, <hi>to be commu<g ref="char:EOLhyphen"/>nicated to the Lords and Commons in the Parliament of En<g ref="char:EOLhyphen"/>gland at Westminster, and the Commissioners of the Parlia<g ref="char:EOLhyphen"/>ment of Scotland.</hi>
+               </p>
+            </argument>
+         </div>
+      </body>
+   </text>
+</TEI>
